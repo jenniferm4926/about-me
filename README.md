@@ -1,6 +1,6 @@
 #Jennifer Mizhquiri
-jenniferm4926@hstat.org 
-HSTAT
+jenniferm4926@hstat.org  
+_HSTAT_
 ###Bio
 1. I'm the oldest child
 2. I like to draw.
@@ -15,4 +15,4 @@ Schedule
 * AP Spanish 
 * Math
 * Physics 
-* SEP
+* SEP  [VIST SEP](hstat.org/sep11) 
