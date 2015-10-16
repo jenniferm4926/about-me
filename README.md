@@ -7,6 +7,7 @@ _HSTAT_
 2. I like to draw.
 3. I use wattpad often
 4.  I'm on the tennis team.
+     (I am the best girl in the team!!!)
 
 Schedule  
 * Gym   
@@ -24,5 +25,5 @@ Schedule
     * Mr.Michelle 
 * SEP  
     * Mr. Mueller   
-  [VIST SEP](hstat.org/sep11) 
+  [VISIT SEP](hstat.org/sep11)   LOVE THIS CLASS
  
